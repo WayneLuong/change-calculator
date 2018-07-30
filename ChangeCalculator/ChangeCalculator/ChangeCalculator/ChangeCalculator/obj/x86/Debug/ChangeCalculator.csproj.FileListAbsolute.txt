@@ -1,0 +1,10 @@
+C:\Users\Wayne\Desktop\ChangeCalculator\ChangeCalculator\bin\Debug\ChangeCalculator.exe
+C:\Users\Wayne\Desktop\ChangeCalculator\ChangeCalculator\bin\Debug\ChangeCalculator.pdb
+C:\Users\Wayne\Desktop\ChangeCalculator\ChangeCalculator\obj\x86\Debug\ChangeCalculator.exe
+C:\Users\Wayne\Desktop\ChangeCalculator\ChangeCalculator\obj\x86\Debug\ChangeCalculator.pdb
+C:\Users\Wayne\Desktop\ChangeCalculator\ChangeCalculator\obj\x86\Debug\ChangeCalculator.csprojResolveAssemblyReference.cache
+C:\Users\Wayne\Desktop\ChangeCalculator\ChangeCalculator\ChangeCalculator\ChangeCalculator\obj\x86\Debug\ChangeCalculator.exe
+C:\Users\Wayne\Desktop\ChangeCalculator\ChangeCalculator\ChangeCalculator\ChangeCalculator\obj\x86\Debug\ChangeCalculator.pdb
+C:\Users\Wayne\Desktop\ChangeCalculator\ChangeCalculator\ChangeCalculator\ChangeCalculator\bin\Debug\ChangeCalculator.exe
+C:\Users\Wayne\Desktop\ChangeCalculator\ChangeCalculator\ChangeCalculator\ChangeCalculator\bin\Debug\ChangeCalculator.pdb
+C:\Users\Wayne\Desktop\ChangeCalculator\ChangeCalculator\ChangeCalculator\ChangeCalculator\obj\x86\Debug\ChangeCalculator.csprojResolveAssemblyReference.cache
